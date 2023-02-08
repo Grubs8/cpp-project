@@ -6,7 +6,11 @@ int main()
     int height = 1200;
     
 
+    InitWindow(width,height, "Grub Window");
 
+    while(true){
+
+    }
     InitWindow(width,height, "Grub Window");
 }
 
